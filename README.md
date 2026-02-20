@@ -1,1 +1,3 @@
 This repository contains an archive of both the video title/descriptions on Filian's youtube channel, and all known files on [blackfile-index.org](https://blackfile-index.org). The youtube videos are listed with seperate json files for timestamps and each file contains changes at the end, giving changes made since the last file. On the website archive, you need to go back through git history to see previous versions.
+
+(I try to scan for changes at least twice a day. Any commits should be made within at most 12 hours from the change. No commits are made if nothing changes.)
